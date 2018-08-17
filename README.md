@@ -9,7 +9,5 @@
 - **Credits**  
   me
   
-  Iacuna for being a bully subject
-  
 - **Coming Soon**
   /bully <userid> to start bullying a guy!
