@@ -8,6 +8,9 @@
 
 - **Credits**  
   me
+
+  My great friend Iacuna for being a bullysubject
   
 - **Coming Soon**
-  /bully <userid> to start bullying a guy!
+  
+  Multi Group Support. (Using lists has its limitation oof)
