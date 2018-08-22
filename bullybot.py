@@ -21,7 +21,7 @@ def bully(message):
         bullysubject.append(int(keh))
         while 68 in boi:
             boi.remove(68)
-        bot.reply_to(message, "bullying this nigga")
+        bot.reply_to(message, "bullying this boi")
     elif message.from_user.id in bullysubject and 68 not in boi:
         bot.reply_to(message, "Get rekt depressed uncle")
         print(bullysubject)
