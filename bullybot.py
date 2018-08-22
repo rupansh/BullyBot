@@ -25,3 +25,6 @@ def bully(message):
     elif message.from_user.id in bullysubject and 68 not in boi:
         bot.reply_to(message, "Get rekt depressed uncle")
         print(bullysubject)
+
+
+bot.polling()
