@@ -1,5 +1,8 @@
 # BullyBot
 
+- **requires python3.7**  
+
+
 - **What is this?**  
   A Telegram Bot that bullies people on telegram
 
